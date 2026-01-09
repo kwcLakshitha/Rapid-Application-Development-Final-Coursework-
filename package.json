@@ -1,8 +1,5 @@
 {
   "dependencies": {
-    "bootstrap": "^5.3.8",
-    "init": "^0.1.2",
-    "react-bootstrap": "^2.10.10",
-    "react-router-dom": "^7.11.0"
+    "init": "^0.1.2"
   }
 }
